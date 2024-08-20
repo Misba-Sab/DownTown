@@ -1,1 +1,2 @@
-Down Town parking is a online management system which includes both user and admin section. The user have to login where as admin can view all the users who are logged in and also manage the parking area. the design is pretty simpple so that user use it easily without any difficulties.
+Project code is available in my new branch please go through it.
+
